@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "playwright": "^1.52.0"
+  },
+  "name": "pythonscraping",
+  "version": "1.0.0",
+  "main": "googlelabs.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloudWaddie/aiTrackerScripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CloudWaddie/aiTrackerScripts/issues"
+  },
+  "homepage": "https://github.com/CloudWaddie/aiTrackerScripts#readme",
+  "description": ""
+}
