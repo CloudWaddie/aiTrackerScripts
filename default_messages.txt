@@ -1,0 +1,2246 @@
+ source
+ sources
+ {taxPercent}%
+ · 0 sources
+ · 1 source
+ · {searchesCount, plural, one {# search} other {# searches}}
+ · {sourcesCount} sources
+#{rank}
+$
+(Internal) Debug
+(Optional) Feel free to add specific details
+(optional)
++
+-{currencySign}{adjustment}
+-{currencySign}{credits}
+-{currencySign}{discountAmount}
+-{currencySign}{discount}
+0
+1 Source
+20
+200
+229
+23
+25
+29
+4o
+4o Image Generation
+<b>Important:</b> To setup internal knowledge you must give ChatGPT access to the full list of Google permissions on the next step. If you do not keep all the boxes checked you will not be able to proceed.
+<b>Note</b>: Only users with the <i>same</i> Google Workspace domain can connect. Your email should look like <code>example.com</code> — personal accounts won’t work. Be sure you’re using the right one.
+<bold>New version of GPT available</bold> - Continue chatting to use the old version, or start a <link>new chat</link> for the latest version.
+<bold>This will permanently delete all folder files and chats.</bold> To save chats, move them to your chat list or another folder before deleting.
+<bold>This will permanently delete all project files and chats.</bold> To save chats, move them to your chat list or another project before deleting.
+<link1>Learn more</link1> about how memory works. You can turn off memory at any time in <link2>settings</link2>. Memories may be used to <link3>train our models</link3> if you have model training enabled.
+<link>Manage memories</link>
+<strong>Almost full.</strong> Once full, new memories won
+<strong>You’re out of space.</strong> Remove existing memories to make room for ChatGPT to save new memories, or get 4x more space with {upsellLink}.
+<strong>You’re out of space.</strong> Remove existing memories to make room for ChatGPT to save new memories.
+A clean and minimalistic logo featuring an ice cream cone in soft pastel colors. The cone should be simple and stylized, with a swirl of ice cream on top in shades of pink, mint green, and creamy yellow. The background should be flat and light in tone to keep the focus on the logo. Designed in a modern, professional, and friendly style, suitable for a boutique ice cream brand.
+A dreamy sky scene featuring the phrase 
+A flat-style digital illustration of two diverse professionals collaborating at a desk with a laptop in a modern office setting. One person points at the screen while the other considers thoughtfully, and a shared thought bubble above them contains a glowing lightbulb, symbolizing a joint idea. Use a soft, modern color palette with clean lines and a minimal, professional aesthetic suitable for a startup or business environment. 1x1 aspect ratio.
+A folder owner or editor can change these instructions to have ChatGPT focus on certain topics, or respond in a certain tone or format.
+A high-quality 3D-rendered illustration of a color wheel logo. The design features eight symmetrical, petal-shaped leaves arranged in a perfect circular flower pattern. Each leaf is semi-transparent like colored glass, rendered in soft pastel tones including pink, orange, yellow, green, blue, and purple. The petals overlap slightly, creating gentle blended hues where they intersect. The background is a flat, light-toned surface with even, diffused lighting, giving the image a modern, polished, and professional appearance. No text.
+A more personalized assistant
+A new version of ChatGPT Windows is available and must be installed to continue.
+A project owner or editor can change these instructions to have ChatGPT focus on certain topics, or respond in a certain tone or format.
+A risograph-inspired 2D digital illustration of a diverse group of coworkers collaborating in a modern office. Use a limited color palette (like red, blue, yellow, and green) with visible halftone textures and grainy overlays. The style should evoke a retro print aesthetic while maintaining a bright, energetic, and professional tone.
+A task name is required.
+AI that can help with brainstorming, researching, planning, and more. Just ask.
+About
+Accept all
+Access Denied
+Access on Web, iOS, and Android
+Access to Advanced Voice Mode
+Access to GPT-3.5
+Access to GPT-4, our most capable model
+Access to GPT-4, {modelName}, GPT-3.5
+Access to GPT-4o mini and reasoning
+Access to GPT-4o, GPT-4o mini, GPT-4
+Access to OpenAI o1-preview, OpenAI o1-mini
+Access to a research preview of Codex agent
+Access to a research preview of Codex agent (coming soon)
+Access to additional tools like DALL·E, Browsing, Advanced Data Analysis and more
+Access to advanced data analysis, file uploads, vision, and web browsing
+Access to beta features like browsing, plugins, and advanced data analysis
+Access to data analysis, file uploads, vision, web browsing, and image generation
+Access to deep research, multiple reasoning models (o3-mini, o3-mini-high, and o1), and a research preview of GPT-4.5
+Access to deep research, multiple reasoning models (o4-mini, o4-mini-high, and o3), and a research preview of GPT-4.5
+Access to o1 pro mode, which uses more compute for the best answers to the hardest questions
+Access to our GPT-3.5 model
+Access to research preview of GPT-4.5
+Access to research preview of Operator
+Access to research previews of GPT-4.5 and Operator
+Access to {mainModel}
+Access to {mainModel} and {liteModel}
+Account discount applied
+Acme Inc.
+Actions
+Activity
+Adapts to each prompt
+Add
+Add Action
+Add Option...
+Add Team workspace
+Add Teammates
+Add a detail
+Add a new domain
+Add a repository…
+Add account
+Add an optional private email to the creator
+Add and reassign users as needed
+Add anything
+Add comments
+Add custom instructions
+Add deep research
+Add documents, code files, images, and more. {gizmoNameText} can access their contents when you chat inside the folder.
+Add documents, code files, images, and more. {gizmoNameText} can access their contents when you chat inside the project.
+Add documents, code files, images, and more. {projectName} can access their contents when you chat inside the folder.
+Add documents, code files, images, and more. {projectName} can access their contents when you chat inside the project.
+Add emojis
+Add emojis to lists for visual flair. Do not change the structure of the original text.
+Add files
+Add files disabled for {modelName}
+Add files disabled in Reason mode
+Add files disabled in Search mode
+Add files is unavailable
+Add final polish
+Add from {connectorName}
+Add inline code comments to explain the code, especially parts that are more complex. Make sure to rewrite all the code. You may reply that you added inline comments, but do not mention the prompt.
+Add instructions
+Add logs
+Add more seats at any time. Minimum of {minSeats} seats.
+Add option...
+Add or remove users as needed
+Add people
+Add people and groups from {workspaceName}
+Add people from {workspaceName}
+Add photos
+Add photos and files
+Add some final polish to the text. If relevant, add a large title or any section titles. Check grammar and mechanics, make sure everything is consistent and reads well. You can reply that you added some final polish and checked for grammar, but do not mention the prompt.
+Add teammates
+Add three emojis at the start or end of every major section or paragraph to give subtle decoration. Do not change the structure of the original text. Do not add emojis to lists.
+Add to folder
+Add to project
+Add to {projectName}
+Add your email
+Additional feedback
+Adjust the length
+Adjust thinking or choose a model here
+Adjustment
+Adjustments
+Admin
+Admin controls, domain verification, and analytics
+Administration
+Administrative Assistant
+All Plugins and Custom Instructions in the existing workspace will be deleted.
+All Repositories
+All Sources
+All past chats will inform responses, not just saved memories.
+All the images you
+All your tools, in one handy place
+Allow
+Allow ChatGPT deep research to read Box files.
+Allow ChatGPT deep research to read Dropbox files.
+Allow ChatGPT deep research to read Google Drive files.
+Allow ChatGPT deep research to read HubSpot.
+Allow ChatGPT deep research to read Intercom conversations.
+Allow ChatGPT deep research to read Linear projects.
+Allow ChatGPT deep research to read Microsoft Teams chats.
+Allow ChatGPT deep research to read Outlook Calendar events.
+Allow ChatGPT deep research to read Outlook emails.
+Allow ChatGPT deep research to read files, including those from Sharepoint.
+Allow ChatGPT deep research to read your GitHub repositories.
+Allow ChatGPT to read Google Contacts.
+Allow ChatGPT to read and create Google Calendar events.
+Allow ChatGPT to read and send Gmail emails.
+Allow Codex CLI to use models from the API.
+Allow analytics cookies
+Allow essential cookies
+Allow full access
+Allow network access?
+Allow selected ({count})
+Allow users of your GPTs to send feedback to your ChatGPT login email. Your email will never be shared publicly.
+Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. <link>Learn more</link>
+Allow your content to be used to train our models, which makes ChatGPT better for you and everyone who uses it. We take steps to protect your privacy. <link>Learn more</link>.
+Alpha
+Already have an account? <login>Login</login>
+Alumni
+Always allow
+Always open in ChatGPT?
+Always show code when using data analyst
+Always show details
+Always verify information about voting with your local election authority.
+Always verify information about voting with your local election authority. For more information about the EU elections, visit <euElectionLink></euElectionLink>.
+Always verify information about voting with your state or local election authority. For more information, visit <usElectionLink></usElectionLink>.
+An error occured while trying to run {name}
+An error occurred loading this GPT.
+An error occurred while cancelling the task.
+Analytics
+Analyzing…
+Annual
+Annual (-{discountPercentage}%)
+Annually
+Annually on {localizedMonth} {day}
+Answer in chat instead
+Answers questions, runs code, and drafts PRs.
+Any
+Any data shared with a third party through GPT actions are subject to the third party
+Anyone at {workspaceName}
+Anyone at {workspaceName} with the link
+Anyone with a link
+Anyone with the link can view.
+App
+App updates
+Applied Sciences
+Apply
+Apply to My Subscription
+Archive
+Archive all
+Archive all chats
+Archive your chat history - are you sure?
+Archived Chats
+Archived chats
+Are you sure you want to cancel?
+Are you sure you want to cancel? Your changes will not be saved.
+Are you sure you want to close?
+Are you sure you want to delete all your shared links?
+Are you sure you want to delete this post?
+Are you sure you want to delete this task? This cannot be undone.
+Are you sure you want to disable multi-factor authentication? You will no longer need to provide a verification code when you log into your account.
+Are you sure you want to log out?
+Are you sure you want to revoke approval of {gptName} for your workspace? Members won
+Are you sure you want to stop researching?
+Are you sure?
+As a Plus user, enjoy early access to experimental new features, which may change during development.
+As you chat with {name}, the details and preferences it saves will be shown here.
+Ask
+Ask ChatGPT anything
+Ask ChatGPT anything, {name}
+Ask ChatGPT for help
+Ask ChatGPT to do things in the future.
+Ask ChatGPT to edit
+Ask anything
+Ask away
+Ask {name} anything
+Asked ChatGPT
+Assamese
+Assistance with writing, problem solving and more
+Attach
+Attach files is unavailable
+Attach images
+Attachments disabled for Reason mode
+Attachments disabled for Search mode
+Attachments disabled for {modelName}
+Audio issues
+Audio recordings are saved, and you can delete them at any time. Learn how to <link>manage recordings</link>.
+Authenticate to {workspaceName}
+Authenticate with SSO to access this workspace
+Authenticate without SSO to access this workspace
+Authentication
+Auto
+Auto provisioning disabled for this workspace
+Auto provisioning enabled for this workspace
+Auto-Detect
+Auto-detect
+Back
+Back to ChatGPT home
+Back to chat
+Back to latest version
+Bad
+Bad response
+Base price: {amount}
+Because you
+Bengali
+Beta
+Beta features
+Biased
+Billed annually
+Billed annually starting {billDate}
+Billed monthly
+Billed monthly starting {billDate}
+Billed monthly, starting today
+Billing will auto-renew on {renewalDate}
+Billing will start on {renewalDateFormatted}
+Box
+Bring your ideas to life with images
+Bring your internal knowledge into ChatGPT — secure and admin-controlled
+Browse all connectors
+Browse, create, and use GPTs
+Browsing
+Builder profile
+Bulleted list
+Business
+Business Owner
+Business and Analytics
+Buy
+Buy for my team
+By default, chats in this workspace are not used to train our AI models.
+By messaging ChatGPT, you agree to our <termsLink>Terms</termsLink> and have read our <privacyLink>Privacy Policy</privacyLink> and its <koreaAddendumLink>Korea addendum</koreaAddendumLink>.
+By messaging ChatGPT, you agree to our <termsLink>Terms</termsLink> and have read our <privacyLink>Privacy Policy</privacyLink> and its <koreaAddendumLink>Korea addendum</koreaAddendumLink>. See <cookiePreferencesLink>Cookie Preferences</cookiePreferencesLink>.
+By messaging ChatGPT, you agree to our <termsLink>Terms</termsLink> and have read our <privacyLink>Privacy Policy</privacyLink>.
+By messaging ChatGPT, you agree to our <termsLink>Terms</termsLink> and have read our <privacyLink>Privacy Policy</privacyLink>. See <cookiePreferencesLink>Cookie Preferences</cookiePreferencesLink>.
+By {displayName}
+C++
+Campus Operations
+Can chat
+Can edit
+Can use memory and custom instructions to shape responses.
+Cancel
+Cancel Subscription
+Cancel my subscription
+Cancel my subscription in the ChatGPT Android app
+Cancel my subscription in the ChatGPT iOS app
+Cancel subscription
+Cancel your Plus subscription?
+Cancelling...
+Cannot Access This Workspace
+Cannot connect this account
+Cannot connect, please use the web version instead
+Cannot preview your code
+Canvas
+Capabilities
+Carry over existing data from your personal workspace
+Category
+Change a style
+Change email
+Change plan
+Changes will not be saved unless you save this canvas to your chat.
+Chat
+Chat history
+Chat history may be reviewed or used to improve our services. Learn more about your choices in our <article>Help Center</article>.
+Chat on WhatsApp
+Chat, edit files & instructions, and duplicate
+Chat, view files & instructions, and duplicate
+ChatGPT
+ChatGPT Edu automatically disables training.
+ChatGPT Edu has been enabled in your workspace
+ChatGPT Enterprise automatically disables training.
+ChatGPT Enterprise has been enabled in your workspace
+ChatGPT Plus
+ChatGPT Plus gives you higher limits, smarter models, and Sora for video.
+ChatGPT Pro subscription
+ChatGPT Team
+ChatGPT Team automatically disables training.
+ChatGPT can access information from connected apps, based on what you
+ChatGPT can answer questions, help you learn, write code, brainstorm together, and much more.
+ChatGPT can make mistakes. Check important info.
+ChatGPT can make mistakes. Check important info. See <cookiePreferencesLink>Cookie Preferences</cookiePreferencesLink>.
+ChatGPT can make mistakes. OpenAI doesn
+ChatGPT can now reference past chats, not just saved memories.
+ChatGPT can now remember more of your past chats to better personalize its responses. Want to change what it knows about you? Just ask.
+ChatGPT can now remember more of your past chats, so you won
+ChatGPT can now remember your recent chats to better personalize its responses. Want to change what it knows about you? Just ask.
+ChatGPT can now use internal knowledge
+ChatGPT can summarize and analyze your files or images.
+ChatGPT can use your Google Drive files to provide more relevant answers. Connect your Google Drive to get started.
+ChatGPT generated image.
+ChatGPT is available for Windows 10+
+ChatGPT is available for macOS 14+ with Apple Silicon
+ChatGPT is generating a response...
+ChatGPT is now available for Windows 10+
+ChatGPT is now available for macOS 14+ with Apple Silicon
+ChatGPT is still generating a response...
+ChatGPT is strictly limited to permissions you
+ChatGPT isn
+ChatGPT logo
+ChatGPT may use Memory to personalize queries to search providers, such as Bing. {learnMoreLink}
+ChatGPT now has memory
+ChatGPT now remembers your recent chats, so you won
+ChatGPT now thinks a little longer to make more accurate and detailed images. <link>Learn more</link>
+ChatGPT now uses all past chats
+ChatGPT remembers useful details about you and your preferences so it can be more helpful. <link>Learn more</link>
+ChatGPT said:
+ChatGPT says: {message}
+ChatGPT skills, all in one place
+ChatGPT speaks many languages. Give it a try, just by typing.
+ChatGPT speaks your local language — give it a try, just by typing.
+ChatGPT student offer activated
+ChatGPT tries to remember most of your chats, but it may forget things over time. Saved memories are never forgotten. <link>Learn more</link>
+ChatGPT tries to remember your recent chats, but it may forget things over time. Saved memories are never forgotten. <link>Learn more</link>
+ChatGPT will automatically remember useful details and preferences you share in all your conversations, carrying them between chats.
+ChatGPT will become more helpful as you chat, picking up on details and preferences to tailor its responses to you. <link>Learn more</link>
+ChatGPT won
+ChatGPT {planName}
+ChatGPT {planName} for {numPeriods, plural, one {1 month} other {{numPeriods} months}}
+Chats in this folder
+Chats in this folder can access file content
+Chats in this project
+Chats in this project can access file content
+Chats may be reviewed and used to train our models. You can opt out in settings. <learnMoreLink>Learn more</learnMoreLink>
+Chats may be reviewed for safety and abuse prevention. <learnMoreLink>Learn more</learnMoreLink>
+Chats you open from Siri will be saved in your account <emailContainer>({email})</emailContainer>.
+Check
+Check for updates
+Check your App Store subscription
+Check your email
+Check your facts
+Checking for updates...
+Choose a model
+Choose a voice
+Choose at least one
+Choose skill
+Choose tool
+Choose your plan
+Citations
+Clear chat
+Clear console
+Clear current chat?
+Clear memory
+Clear this GPT
+Clear your chat history - are you sure?
+Click here to view the result of your task
+Close
+Close console
+Close sidebar
+Code Interpreter & Data Analysis
+Code execution for canvas is disabled for your workspace. Contact your admin to enable.
+Code interpreter session expired
+Code ran {count, plural, =0 {instantly} one {in # second} other {in # seconds}}
+Code review
+Codex
+Collaborate on a Team plan
+Collaborate on writing and code
+Collaborate seamlessly with shared GPTs and an admin console for bulk user management
+Collaborate seamlessly with shared GPTs and bulk admin controls
+College
+Commented
+Commented on {documentTitle}
+Commenting
+Commenting on {documentTitle}
+Communications
+Companion window hotkey
+Compiling sources
+Complete verification to publish GPTs to everyone.
+Completed
+Completed in
+Completed {taskTitle}
+Completed · {sourcesCount} sources
+Configure Repositories
+Configure which repositories ChatGPT can access
+Confirm
+Confirm archive
+Confirm changes
+Confirm deletion
+Confirm export
+Confirm merge
+Confirm reset
+Confirm transfer
+Connect
+Connect Apps
+Connect ChatGPT to {connectorName} to reference the content from this link.
+Connect Google Drive to get more relevant answers
+Connect Google Drive to help your team unblock work
+Connect Google Drive to personalize ChatGPT’s answers. You control what’s connected, and ChatGPT respects existing permissions.
+Connect apps
+Connect apps to access files in ChatGPT, like docs and spreadsheets.
+Connect more
+Connect now
+Connect these data sources so ChatGPT can access their information — based on what you’re authorized to view. {learn_more_link}
+Connect these data sources so ChatGPT can surface relevant, personalized information — based on what you’re authorized to view. {learnMore}
+Connect to Google Drive directly with the Team plan
+Connect to Microsoft OneDrive
+Connect to {connectorName}
+Connect your favorite apps so ChatGPT can access their information, based on what you’re authorized to view. <link>Learn more</link>
+Connect your organization’s Google Drive 
+Connect {connectorName}
+Connected
+Connected accounts
+Connected apps
+Connected on
+Connectors
+Connectors (Beta)
+Console
+Contact Us
+Contact sales for pricing
+Contact your workspace administrator to set up a builder profile
+Content Unavailable
+Content removed
+Continue
+Continue generating
+Continue to billing
+Continue to {connectorName}
+Continue with Apple
+Continue with Email
+Continue with Google
+Continue with Microsoft
+Continuous sync: Your documents, spreadsheets, and presentations stay up to date in ChatGPT.
+Conversation Starters
+Conversation inaccessible or not found. You may need to switch accounts or request access if this conversation exists.
+Conversations with your GPT can potentially include part or all of the instructions provided.
+Cookie Preferences
+Cookie preferences
+Copied
+Copied DNS TXT record to clipboard
+Copied URL
+Copied link to clipboard
+Copied referral link to clipboard
+Copy
+Copy code
+Copy last code block
+Copy last response
+Copy link
+Copy of {title}
+Copy referral link
+Could not request access. Contact your workspace administrator at {email} to request access to a new workspace account.
+Could not send email verification code, please try again later.
+Could you spare few minutes to take a short survey?
+Couldn
+Create
+Create a GPT
+Create a Renaissance-style painting
+Create a Team workspace
+Create a birthday card image for my friend who’s turning 25. She loves pets and her dream is to open a zoo one day. I’ve attached a photo of her here.
+Create a bold, vintage-style concert poster with a distressed off-white background and gritty, black stencil-like text. Display the words 
+Create a business plan outline
+Create a cartoon illustration of my pet
+Create a detailed outline for a business plan for a new app that connects local artists with buyers. Include sections for market analysis, monetization, and user acquisition
+Create a free account to make illustrations, charts, comics, and more.
+Create a minimalist poster with a solid periwinkle blue background and bold black sans-serif text that reads “Serata di Vino e Pittura” across three left-aligned lines at the top. Below the text, include a simple black line-art illustration of a wine glass filled halfway with dark red wine next to a wedge of Swiss cheese on a plate. The design should be clean and playful, with a modern, flat graphic style.
+Create a modern, minimalist logo for a tech startup called ‘Nexora’. It should use bold typography and a sleek geometric icon, suitable for both light and dark backgrounds
+Create a new document that rewrites the code in C++
+Create a new document that rewrites the code in Java
+Create a new document that rewrites the code in JavaScript
+Create a new document that rewrites the code in PHP
+Create a new document that rewrites the code in Python
+Create a new document that rewrites the code in TypeScript
+Create a photorealistic image of an international astronaut on Mars, wearing a giant duck inflatable toy around its waist
+Create a playful sticker sheet illustration on a black background featuring a mix of colorful, cartoon-style icons with bold black outlines. Include elements like a blue star, red triangle, green square, rainbow “42,” smiling orange cat in a cap, bowtie, infinity symbol, scissors, thumbs-up, giraffe, and a handwritten “OpenAI” logo. The style should be vibrant, vector-based, and fun—like a modern tech-themed sticker pack.
+Create a poster for Anna
+Create account
+Create an image for a garden-themed birthday party invitation
+Create an image of a colorful invitation for a garden-themed birthday party, including whimsical typography
+Create an image of a comic-book style tutorial for cooking pasta
+Create an image of a magazine cover of cute animals with headlines and text
+Create an image of a photorealistic magazine cover for 
+Create an image of a tutorial for cooking pasta
+Create an image of an astronaut with an inflatable duck on Mars
+Create an image of me as a real-life action figure. Be specific as possible based on what you know about me, and put multiple interesting things that represent who I am inside the packaging. I
+Create an image of me as an astronaut on the moon, with Earth in the background, a detailed lunar surface, and stars shining in the dark sky above. I
+Create an image, research report, and more.
+Create an invite for my birthday
+Create and innovate with multimodal AI—including Sora, image generation, canvas, and integrated coding tools
+Create and share custom GPTs with your workspace
+Create and use tasks, projects, and custom GPTs
+Create folder
+Create free account
+Create image
+Create image updated
+Create link
+Create new account
+Create new folder
+Create new project
+Create project
+Create with cutting-edge AI—video, images, code, canvas, and more
+Create workspace
+Created at
+Created document
+Creating ...
+Creating task...
+Creativity and Design
+Credits applied
+Ctrl + Enter to send
+Current version: {version}
+Custom
+Custom Connectors are not verified by OpenAI.
+Custom GPT creation
+Custom Instructions will still be followed if you have them enabled.
+Custom Tool
+Custom instructions
+Custom instructions for ChatGPT to best help with this folder
+Custom instructions for ChatGPT to best help with this project
+Custom schedule
+Customer Experience
+Customization
+Customize
+Customize ChatGPT
+Customize ChatGPT to your workflows with file uploads, custom projects, GPTs, and persistent memory
+Cycle reasoning level
+DALL·E Images
+DALL·E image generation
+Daily
+Daily at {localizedTime}
+Dark
+Data accessed from {connectorName} may be used to reply to prompts. We do not train generalized models on this data or derivations of it, unless you choose to submit it as feedback. <link>Learn more</link>
+Data controls
+Data or Analytics
+Date created
+Date shared
+Deactivated
+Deep Research
+Deep research
+Deep research is temporarily unavailable
+Default color
+Delegate daily tasks with Operator
+Delegate routine work to ChatGPT with tasks and solve complex problems with deep research, freeing your team for high-value work
+Delete
+Delete account
+Delete account - are you sure?
+Delete all
+Delete all chats
+Delete all shared links
+Delete chat
+Delete chat?
+Delete conversation
+Delete folder
+Delete folder?
+Delete project
+Delete project?
+Delete shared link
+Delete task
+Delete the existing workspace
+Deleting chat history is permanent and can
+Deleting failed
+Deleting shared link failed
+Deleting shared links failed
+Deleting your account is permanent and cannot be undone.
+Deleting your saved memories means {name} may not remember this information going forward. To fully remove this information from {name}
+Deletion will prevent you from accessing OpenAI services, including ChatGPT, API, and DALL·E.
+Deprecated
+Describe an image
+Describe me based on all our chats — make it catchy!
+Describe me based on our chats
+Describe what you want to add, remove or replace…
+Describe your edit…
+Description {optionalText}
+Design
+Design a Christmas card with my family at the North Pole, surrounded by snowy landscapes, holiday lights, a cozy cabin, reindeer, and a sparkling tree, all with a joyful, festive vibe. I’ve attached a photo of my family here.
+Design a modern logo
+Design a poster
+Details
+Developer
+Developer Tools
+Did we get it wrong? Please tell us by giving this response a thumbs down.
+Didn
+Didn’t receive the code?
+Director
+Disable
+Disable MFA
+Disable multi-factor authentication (MFA)
+Disable {systemHintName}
+Disabled
+Disabled by workspace admin
+Disconnect
+Discount
+Dislike
+Dismiss
+Dismiss comment
+Dismiss survey
+Do you like this personality?
+Do you want to transfer your chat history and GPTs to the Team workspace?
+Document
+Document editing temporarily unavailable
+Document exceeds max length
+Documents
+Doesn
+Don
+Done
+Don’t save and close
+Don’t share sensitive info
+Download
+Download PDF
+Download file
+Download image
+Download on Microsoft Store
+Download the Chrome extension to switch your default search engine to ChatGPT, and get instant answers from trusted sources with every search.
+Download the Windows app
+Download the app
+Download the latest iOS or Android app to try advanced voice mode
+Download the macOS app
+Draft a document
+Draft and refine on the spot
+Drop any file here to add it to the conversation
+Drop any file here to add it to the folder
+Drop any file here to add it to the project
+Dropbox
+Due to high demand, we
+Duplicate GPT
+Dynamic
+E.g. Birthday Party Planning
+EUR
+EUR €0/month
+EUR €19.08/month
+EUR €229/year
+EUR €23/month
+EUR €29 per person/month*
+Early access to new features
+Earned
+Easily share your content with others — your chat stays private.
+Edit
+Edit Actions
+Edit GPT
+Edit Selection
+Edit color
+Edit folder name
+Edit image
+Edit in canvas
+Edit message
+Edit nickname
+Edit project name
+Edit speakers
+Edit with ChatGPT
+Edited
+Edited image
+Edited {documentTitle}
+Editing
+Editing {documentTitle}
+Edu
+Education Professional
+Email
+Email Address
+Email confirmed.
+Email required
+Employee Only
+Empty conversations cannot be reported
+Enable
+Enable MFA
+Enable memory in search
+Enable microphone access in Settings
+Enable multi-factor authentication (MFA) to connect GitHub
+Enabled
+Enabled connectors
+Encountered an error connecting your account. Please try again later.
+End
+End voice mode
+End {planName} access on {expirationDate}?
+Engineering
+Enhanced support & ongoing account management
+Enter the verification code we just sent to
+Enter the verification code we just sent to {emailAddress}
+Enterprise
+Enterprise data excluded from training by default & custom data retention windows. <article>Learn more</article>
+Enterprise-grade security and privacy and the most powerful version of ChatGPT yet
+Error
+Error connecting your account.
+Error creating connector
+Error deleting your connector.
+Error disconnecting connector
+Error disconnecting your account.
+Error fetching OAuth configuration
+Error fetching connectors
+Error fetching connectors connections
+Error fetching image
+Error occurred. Please try again.
+Error reporting: {detail}
+Error transferring account. To retry, go to Settings → Merge.
+Error uploading: Folders can
+Error uploading: Projects can
+Error while searching
+Essential
+Everyone
+Everything in Free
+Everything in Free, and:
+Everything in Plus
+Everything in Plus, and:
+Everything in Plus, with higher message limits for GPT-4o
+Everything in Team
+Everything in Team, and:
+Example prompt
+Excellent!
+Exclude hidden images
+Executive
+Expanded context window for longer inputs
+Expired
+Explain what it does in a few words
+Explore GPTs
+Explore big topics in great detail. Uses reasoning to synthesize large amounts of information.
+Explore how AI can help you with everyday tasks
+Export
+Export and delete existing chat history
+Export and delete workspace
+Export data
+Extended access to Sora video generation
+Extended access to deep research, which conducts multi-step online research for complex tasks
+Extended limits on messaging, file uploads, advanced data analysis, and image generation
+Extended limits on messaging, file uploads, and DALL·E image generation
+External domain invites are allowed for this workspace
+External domain invites are disabled for this workspace
+Failed to clear memory.
+Failed to comment
+Failed to comment on {documentTitle}
+Failed to copy link to clipboard.
+Failed to delete account. Please try again later.
+Failed to delete folder. Please try again.
+Failed to delete project. Please try again.
+Failed to delete task
+Failed to delete the post
+Failed to edit
+Failed to edit the image
+Failed to edit {documentTitle}
+Failed to forget memory
+Failed to generate
+Failed to generate share link
+Failed to get upload status for {fileName}
+Failed to get your settings
+Failed to leave workspace
+Failed to link {connectorName}
+Failed to load subscription: {error}. Contact support@openai.com if error persists.
+Failed to move the conversation to the folder
+Failed to move the conversation to the project
+Failed to play message
+Failed to reset your GPT
+Failed to save task
+Failed to start voice mode
+Failed to think
+Failed to update your beta setting
+Failed upload to files.oaiusercontent.com. Please ensure your network settings allow access to this site or contact your network administrator.
+Faster response speed
+Favorite
+Feedback about {name}
+Feedback sent
+File
+File analysis temporarily unavailable
+File contents may not be accessible
+File download failed. Please try again.
+File download not supported in a shared chat
+File is empty
+File is too large
+File not found
+File upload pending
+File upload timed out. Please try again.
+File uploads
+Files impacting responses
+Files not yet added
+Files uploaded here may be included in conversations with your GPT. Files can be downloaded if Code Interpreter is enabled.
+Finance or Accounting
+Find any bugs and rewrite all the code to fix the bugs. Do not add any new comments. If there are no bugs, reply that you reviewed the code and found no bugs.
+Find real-time news and info
+Find the revenue projection for Q3 and the most profitable projects.
+Find, analyze, and synthesize your Drive files to create comprehensive reports
+Fine Arts
+Finish redeeming your free month of Plus
+Finish redeeming your {discount}% off code for Plus
+Fix bug
+Fix bugs
+Fix it for me
+Focus chat input
+Folder files
+Folder instructions cannot be longer than {length} characters.
+Folder name
+Folder names cannot be longer than {length} characters.
+Folders
+Folders can
+Folders keep chats, files, and custom instructions in one place. Use them for ongoing work, or just to keep things tidy.
+Follow up
+Follow up have been turned off
+Follow ups are turned off for this conversation
+Follows Custom Instructions
+For 2+ users, billed annually
+For Larger Organizations
+For analysis and research
+For best results, select the language you mainly speak. If it
+For coding and analysis
+For deeper questions
+For every ChatGPT user with a valid university email address you refer, you get {discount} your next billing cycle. You can refer up to 12 people, and discounts are automatically applied.
+For everyday questions
+For example, 
+For more than {maxSeats} users, upgrade to our <link>Enterprise plan</link>.
+For people just getting started with ChatGPT
+For {discountedFormattedCost}, you
+Forget
+Form row
+Free
+Free monthly preview
+Free users now have access to the lightweight version of deep research, so you can get detailed insights on any topic, from shopping to choosing the right college.
+Freelancer
+Friends referred
+From ChatGPT
+Full sync can take up to few days
+Full sync may take up to 16 hours or longer, based on workspace size.
+Fun and entertainment
+Future changes are available in real-time.
+GBP
+GBP £0/month
+GBP £16.67/month
+GBP £20/month
+GBP £200/year
+GBP £25 per person/month*
+GPT
+GPT-4 will be sunset on {dateStr} and replaced by GPT-4o, our newer, more capable model. Try GPT-4o for writing, coding, STEM, and more—it’s intuitive, collaborative, and great at following instructions.
+GPTs
+GPTs with custom web actions can currently only use GPT-4o and GPT-4.1. If your GPT has no custom actions it can use any model.
+GPTs you’ve created (<learnMoreLink>learn more</learnMoreLink>)
+General
+Generate quick summaries of documents with more file uploads
+Get 1 month of expanded access for only {cost} per month.
+Get 1 year of expanded access for only {cost} per year.
+Get ChatGPT Plus for {discount} off for the {months, plural, one {first month} other {first # months}}.
+Get ChatGPT search extension
+Get Download
+Get Extension
+Get Plus
+Get Plus for {cost}/month for the first month
+Get Plus for {cost}/month for the first {num_months} months
+Get Plus for {cost}/year for the first year
+Get Plus for {cost}/year for the first {num_years} years
+Get Pro
+Get Team
+Get a detailed report
+Get a friend to sign up for ChatGPT, and you’ll both get a free month of Plus.
+Get access to premium features when you verify you’re a student in the US or Canada. {learnMoreLink}
+Get better answers to your biggest questions with our most advanced AI models
+Get fast answers with trusted sources. {learnMore}
+Get faster access to ChatGPT with the Alt + Space shortcut, and use Advanced Voice Mode to get hands-free answers while you work.
+Get faster access to ChatGPT with the Option + Space shortcut, and use Advanced Voice Mode to get hands-free answers while you work.
+Get free Plus
+Get me up to speed on the past 2 weeks of project updates.
+Get more natural, real-time conversations with advanced voice. Senses and responds to humor, sarcasm, interruptions, and more.
+Get more space
+Get my referral link
+Get notified when there’s an update on your tasks.
+Get offer
+Get personalized ChatGPT responses and Plus benefits when using Siri and Writing Tools.
+Get smarter responses, upload files and images, and more.
+Get smarter responses, upload files and images, and save your conversations.
+Get smarter responses, upload files, create images, and more by logging in.
+Get the best of OpenAI with the highest level of access
+Get up to 12 free months of Plus when you refer classmates
+Get {num_months} months of expanded access for only {cost} per month.
+Get {num_years} years of expanded access for only {cost} per year.
+GitHub
+GitHub requires MFA to be enabled.
+Give your folder a name
+Give your project a name
+Gmail
+Go back
+Go to ChatGPT
+Good
+Good response
+Good to see you, {name}.
+Google Calendar
+Google Contacts
+Google Drive
+Google Drive is now connected and syncing.
+Got it
+Graduate School
+Great for everyday tasks
+Great!
+Gujarati
+Have an existing plan?
+Have an existing plan? See <link>billing help</link>
+Health or Medical
+Healthcare Professional
+Help & FAQ
+Help me write a basic outline for an essay
+Help me write a birthday message for a friend
+Help me write a short story
+Help me write a short story set in a post-apocalyptic Tokyo, focused on a character who’s discovering a long-lost secret
+Help us improve your experience
+Here you can use our latest models, with more capabilities, and fewer limits.
+Hey ChatGPT!
+Hey ChatGPT, can you tell me a little bit more about what you can do?
+Hey, {name}. Ready to dive in?
+Hi
+Hi there
+Hide changes
+Hide chats
+Hide everywhere
+Hide folder details
+Hide for this chat
+Hide image
+Hide project details
+Hide your name in your builder profile
+Hide your website in your builder profile
+High School
+High speed access to GPT-4, GPT-4o, GPT-4o mini, and tools like DALL·E, web browsing, data analysis, and more
+Higher message caps on GPT-4 and tools like DALL·E, Browsing, Advanced Data Analysis, and more
+Higher usage limits for advanced data analysis, file uploads, vision, and web browsing
+Higher usage limits for {limitedModel}
+Hindi
+Home
+How can ChatGPT best help you with this folder?
+How can ChatGPT best help you with this project?
+How can I help, {name}?
+How can I help?
+How do I submit an expense report?
+How would you rate this GPT so far?
+How would you rate this GPT?
+HubSpot
+Human Resources
+I
+I can personalize responses with content from your organization
+I can research in the background to deliver a detailed report. For best results, include:
+I didn
+I just got a puppy!
+I meet OpenAI
+I need help with a billing issue
+I prefer this response
+I understand, continue anyways
+Icon is too large
+Icon preview
+Icon {optionalText}
+If you are between the ages of 13 and 17, your parent or guardian must complete the age verification check on your behalf.
+If you cancel your subscription, you’ll be downgraded to the free plan on {expirationDate, date, long}.
+If you have a ChatGPT Plus subscription, it will be canceled and refunded upon completing this step.
+If you have a ChatGPT Plus subscription, it will be canceled and refunded upon merging.
+Image
+Image Generation
+Image analysis temporarily unavailable
+Image creation just got better
+Image library settings
+Images
+Improve the model for everyone
+In order to join this new workspace, you must choose to either migrate or export your existing chat history.
+In order to sync your drive you must give ChatGPT the appropriate permissions. Please try again and select all the required checkboxes.
+Inaccurate editing
+Inaccurate text rendering
+Include hidden images
+Include my email address {email}
+Include your audio and video recordings from Voice Mode to train our models. Transcripts and other files are covered by 
+Include your audio recordings
+Include your video recordings
+Includes SharePoint
+Information
+Information Technology (IT)
+Insert logs/print statements in the code that will help debug its behavior. Do not make any other changes to the code.
+Instructional Staff
+Instructions
+Instructions are required.
+Instructions not yet added
+Intercom
+Internal Models
+Internal knowledge
+Interrupt task
+Introducing deep research
+Introducing folders
+Introducing internal knowledge in ChatGPT
+Introducing new, improved memory
+Introducing o3-mini and o3-mini-high — two new reasoning models that excel at coding, science, and anything else that takes a little more thinking.
+Introducing projects
+Invalid action
+Invalid icon
+Invite
+Invite coworkers to ChatGPT
+Invite only
+Is this conversation helpful so far?
+It couldn
+It interrupted me
+It looks like you
+It looks like you already have an active mobile subscription. Switch to your mobile app to upgrade
+It looks like you’re either trying to login using a personal email or you don’t have access to a workspace that’s been approved by your IT administrator. Please use an authorized work email to access your workspace, or contact your IT administrator for access.
+It misheard me
+I’m trying to learn and do better in school.
+Java
+JavaScript
+Just curious
+Just now
+Kannada
+Keep chats, files, and custom instructions all in one place. Ideal for organizing work or shaping big ideas.
+Keep current length
+Keep current reading level
+Keep in sidebar
+Keep the conversation going
+Keep your data safe with MFA, encryption, and no training on your content by default. <link>Learn More</link>
+Keep your personal workspace separate. If you’re on Plus, you will maintain your subscription until you cancel
+Keyboard shortcuts
+Kindergarten
+Language
+Last 30 days
+Last 30 days synced
+Last 30 days synced. Still syncing...
+Last 7 days
+Last updated a few hours ago
+Last updated a few minutes ago
+Last updated a few seconds ago
+Launch at Login
+Law
+Learn More
+Learn more
+Learn more about canvas
+Learn more about network requests in canvas
+Learns from previous chats to improve future conversations
+Leave Feedback
+Leave Temporary Chat
+Leave Temporary Chat?
+Leave Workspace - Enter your email to confirm
+Leave the {workspaceName} workspace
+Leave workspace
+Legal
+Let ChatGPT reference all previous conversations when responding.
+Let ChatGPT reference recent conversations when responding.
+Let ChatGPT save and use memories when responding.
+Level up productivity and creativity with expanded access
+Liberal Arts
+Library
+Light
+Like
+Limit {numerator, plural, =0 {# message} one {# message} other {# messages}} / {denominator, plural, =0 {# day} one {# day} other {# days}}
+Limit {numerator, plural, =0 {# message} one {# message} other {# messages}} / {denominator, plural, =0 {# hour} one {# hour} other {# hours}}
+Limit {numerator, plural, =0 {# message} one {# message} other {# messages}} / {denominator, plural, =0 {# minute} one {# minute} other {# minutes}}
+Limited access to GPT-4o
+Limited access to GPT-4o and o4-mini
+Limited access to Sora video generation
+Limited access to advanced data analysis, file uploads, vision, web browsing, and custom GPTs
+Limited access to data analysis, file uploads, vision, web browsing, and image generation
+Limited access to file uploads, advanced data analysis, and image generation
+Limited access to {modelName}
+Limited models for Custom Action GPTs
+Limits apply
+Linear
+Linguistics
+Link copied!
+LinkedIn
+Linking ChatGPT to Google Drive gives you more tailored answers based on your organization
+Links
+Lists
+Loading folders
+Loading projects
+Loading...
+Loading…
+Locked
+Log in
+Log in or sign up for free
+Log in or sign up to get smarter responses, upload files and images, and more.
+Log in or sign up to redeem your promotion
+Log in to analyze files and images for free.
+Log in with Google
+Log in with SSO
+Log out
+Log out all
+Log out of ChatGPT as {emailOrPhone}?
+Log out of all active sessions across all devices, including your current session. It may take up to 30 minutes for other devices to be logged out.
+Log out of all devices
+Log out on this device
+Logging in with SSO may fix these issues.
+Logging in without SSO may fix these issues.
+Login required
+Longer
+Longest
+Looking for sources…
+Looks like you don
+Looks like you don’t meet the eligibility criteria for this promotion. Learn more about <link>ChatGPT plans.</link>
+Low quality or distorted
+Made for use at work
+Main Language
+Make Image
+Make Video
+Make a logo
+Make a photo
+Make a video
+Make an illustration
+Make an image
+Make it shorter. Add an emoji. Translate to kindergartener. ChatGPT can do it all, right on the canvas.
+Make sure you trust this link before proceeding. If you don
+Make this text 50% longer.
+Make this text 50% shorter.
+Make this text 75% longer.
+Make this text 75% shorter.
+Make your first image
+Malayalam
+Manage
+Manage Domain
+Manage connectors
+Manage cookies
+Manage memories
+Manage my subscription
+Manage my subscription in the ChatGPT Android app
+Manage my subscription in the ChatGPT iOS app
+Manage tasks
+Manage which 3rd party accounts can be accessed by {gizmoName}.
+Manage workspace
+Manager
+Marathi
+Marketing
+Marketing Performance Cookies
+Mathematics
+Maybe later
+Meet ChatGPT
+Meet the o3-mini family
+Member
+Members of your workspace can view.
+Memories and your chat history are used to give you more relevant responses. Want to change what ChatGPT remembers? Just ask.
+Memory
+Memory Off
+Memory cleared.
+Memory is disabled for this chat, and it won’t appear in your history.
+Memory is disabled. ChatGPT won
+Memory off
+Merge
+Merge data from your personal workspace
+Merge into the Edu workspace
+Merge into the Enterprise workspace
+Message is empty
+Message is too long
+Message {name}
+Messages beyond this point are only visible to you
+Messaging and Social
+Microphone access required
+Microsoft OneDrive (personal)
+Microsoft OneDrive (work/school)
+Middle School
+Minimum 2 users
+Minimum size: 128 x 128 px
+Missing permission to access file
+Mobile subscriptions are currently not eligible for this promotion.
+Modal splash image
+Model
+Model improvement
+Model selector, current model is {modelLabel}
+Models
+Moderate conversation
+Monthly
+Monthly on the {monthDay, selectordinal, one {#st} two {#nd} few {#rd} other {#th}}
+More
+More Download options
+More GPT-4o power—higher limits, faster output
+More access to the best models
+More available {time}
+More by {creatorName}
+More deep research, unlocked
+More links
+More space for memories
+More than 30 days
+More...
+Most intelligent models with longer context windows
+Move this conversation
+Move to folder
+Move to project
+Multi-factor authentication
+Multi-factor authentication disabled
+Multi-factor authentication enabled
+Multi-factor authentication required
+Multiple voices
+My ChatGPT image
+My GPTs
+My Library
+Name
+Name is populated from your billing details
+Name is required
+Name your workspace
+Natural conversations
+Need help with billing?
+Need more capabilities for your business?
+Need more capabilities? See <link> ChatGPT Enterprise </link>
+Network access is disabled.
+Network requests in canvas are disabled for your workspace. Contact your admin to enable this feature.
+New
+New chat
+New chat in this folder
+New chat in this project
+New chat in {name}
+New connector {betaBadge}
+New document
+New folder
+New memories won’t be added until you make space. <a>Learn more</a>
+New option
+New project
+Next image
+Next response
+Next run {nextRunTime}
+Next three times
+Next version
+Next voice
+No Accessible Workspaces
+No authentication
+No connections found.
+No details available
+No model training
+No models available
+No models match your search
+No peak hour limits for ChatGPT
+No text could be extracted from this file.
+Not Now
+Not enough ratings yet
+Not in history
+Not now
+Not seeing a repository? {helpLink}
+Not seeing your repositories? {helpLink}.
+Notifications
+Notifications are disabled in your browser.
+Notifications settings
+Numbered list
+OAuth
+OK
+OR
+OTP
+Occasionally, the model generates the best response without anything to summarize.
+Odd cropping
+Odia
+Off
+Offers an expanded set of voices to choose from.
+Offload busywork with tasks, tackle tough problems with deep research
+Okay
+Okay, let’s go
+On
+One-time payment, then {currencySign}{planCost}/month after {numPeriods, plural, one {1 month} other {{numPeriods} months}}
+Only me
+Only you can view.
+Open
+Open Profile Menu
+Open canvas
+Open chat
+Open console
+Open conversation options
+Open in Chat
+Open in canvas
+Open info modal
+Open link
+Open new chat
+Open original image
+Open profile menu for user {userName} in workspace: {workspaceName}
+Open sidebar
+Open submenu
+Open tool menu
+OpenAI uses cookies to improve your experience and analyze site traffic. For more information, read our <cookiePolicy>cookie policy</cookiePolicy>.
+Operations
+Operator
+Opportunities to test new features
+Opt out any time
+Optimized for speed and intelligence
+Other
+Our latest reasoning model can search the web, use memory, write better code, and analyze images. {learnMore}
+Our latest reasoning models that can search the web, use memory, write better code, and analyze images. {learnMore}
+Our smartest and most capable model. Includes DALL·E, browsing and more.
+Our smartest model & more
+Outlook Calendar
+Outlook Email
+Owner
+PHP
+POPULAR
+PROMO
+Partnerships
+Paused
+Pay now
+Payment
+Payment Method
+Payment error. Your card may be invalid or authentication may be needed.
+Payment method
+Pending
+Permanently delete my account
+Permissions always respected
+Permissions required
+Personal
+Personal account
+Personal tasks
+Personal workspace
+Personalization
+Personalize your builder profile to connect with users of your GPTs. These settings apply to publicly shared GPTs.
+Personalized to you
+Photorealistic 1x1 image of a young woman in a navy suit placing a sticky note on a whiteboard filled with colorful notes and hand-drawn charts. She wears a focused expression with a slight smile, lit by warm natural light streaming through tall windows. Emphasize depth of field and natural light for a professional look.
+Photorealistic depiction of a hands-on technology training session; diverse group of employees seated at computer workstations in a contemporary tech classroom, instructor demonstrating software on large digital screen, professional casual dress, clear expressions of learning and concentration, clean modern office décor, ambient daylight through frosted glass walls. 1x1 image.
+Pick your plan
+PlaceholderGPT
+Plain text
+Plan Total
+Play
+Please choose a date in the future.
+Please confirm you meet our age requirements
+Please contact your workspace admin to retain access to your account
+Please create a Renaissance-style painting of a Mars rover. Use techniques like chiaroscuro and a warm color palette
+Please create an illustration of my pet in 2D animation style. It’s taking a nap in its favorite spot by the fire
+Please create an invite for my birthday to send to my friends. It’ll be an outdoor barbeque with music and delicious food with my closest friends and family
+Please enter a valid email address to continue.
+Please log in again to continue using the app.
+Please type your account email.
+Please type your account phone number.
+Please verify your age
+Please verify your age in the next {deadline, plural, =0 {# days} one {# day} other {# days}}. We are required to check if you
+Plot
+Plus
+Poor connection
+Popup blocked. Please allow popups for this site.
+Port to a language
+Post
+Practice speaking foreign languages with advanced voice
+Preparing image...
+Presentation
+Press Alt+Space to open the companion window
+Press enter to interrupt task
+Preview
+Preview your output
+Previous 30 Days
+Previous 7 Days
+Previous image
+Previous response
+Previous version
+Previous voice
+Prices shown include estimated tax and shipping.
+Privacy
+Privacy Policy
+Privacy first: ChatGPT always respects your Google Drive permissions — it can only access what you can.
+Privacy policy
+Privacy settings
+Private
+Private and secure
+Pro
+Processing may take some time. You
+Product Management
+Productivity
+Project conversations are private regardless of these settings.
+Project files
+Project instructions cannot be longer than {length} characters.
+Project name
+Project names cannot be longer than {length} characters.
+Project or Program Management
+Projects
+Projects can
+Projects keep chats, files, and custom instructions in one place. Use them for ongoing work, or just to keep things tidy.
+Promo Unavailable
+Promo pricing applies for 1 month. Starting {date}, ChatGPT Plus will continue at {cost}/month. Cancel anytime.
+Promo pricing applies for 1 year. Starting {date}, ChatGPT Plus will continue at {cost}/year. Cancel anytime.
+Promo pricing applies for {num_months} months. Starting {date}, ChatGPT Plus will continue at {cost}/month. Cancel anytime.
+Promo pricing applies for {num_years} years. Starting {date}, ChatGPT Plus will continue at {cost}/year. Cancel anytime.
+Prorated credit for the remainder of your Plus subscription
+Prorated credit for the remainder of your {planName} subscription
+Protect your data with multi-factor authentication, data encryption, and data excluded from training by default. <link>Learn more</link>
+Provide additional feedback
+Provide as many details as possible for best results.
+Public
+Punjabi
+Push
+Push, Email
+Put me in a scene
+Python
+Quick response
+Quickly access ChatGPT
+Quickly access ChatGPT from anywhere on your computer with the Alt + Space shortcut. Share screenshots, upload files, and use Advanced Voice Mode to chat with your computer and get hands-free answers while you work.
+Quickly access ChatGPT from anywhere on your computer with the Option + Space shortcut. Share screenshots, upload files, and use Advanced Voice Mode to chat with your computer and get hands-free answers while you work.
+Ran code
+Ratings
+Ratings and pricing are sourced from third parties which may update over time
+Reactivate workspace
+Read our <article>help center article</article> for more information.
+Read the <modelSpecLink>Model Spec</modelSpecLink> for more on how ChatGPT handles creators
+Read the guide
+Reading file…
+Reading level
+Reading…
+Ready when you are.
+Real-time data from the web with search
+Reason
+Reason disabled for attachments
+Reason is unavailable
+Reasoning
+Receive feedback emails
+Recent
+Recommended at your workplace
+Recommended at {workspace_name}
+Reconnect
+Recorded with video or screenshare
+Recorded with voice
+Recording...
+Reddit
+Redeem
+Redeem your {discount} referral reward
+Refactor code. Translate to Python. Check for bugs. ChatGPT can do it all, right on the canvas.
+Refer a friend
+Refer a friend to sign up for ChatGPT, and you’ll both get a $20 credit.
+Refer classmates, earn rewards
+Reference chat history
+Reference saved memories
+Referrals
+Referring to {fileName}
+Refine and debug on the spot
+Refresh login
+Regular model updates
+Reject all
+Reject non-essential
+Release notes
+Remaining
+Remember that I like concise responses.
+Remove
+Remove 
+Remove GPT
+Remove GPT from workspace
+Remove attachments to search
+Remove emojis
+Remove file
+Remove from {projectName}
+Remove {tool} from selection
+Removed from shared conversation
+Rename
+Renew Plus
+Renew {planName} Plan
+Replace as many words as possible with emojis.
+Reply
+Report
+Report Illegal Content
+Report a conversation
+Report content
+Report submitted
+Repositories
+Request access
+Request access to {workspaceName}
+Request data export - are you sure?
+Request error fetching oauth clients
+Require an extra security challenge when logging in. If you are unable to pass this challenge, you will have the option to recover your account via email.
+Requires plugins to be installed
+Research & Development
+Research and Knowledge
+Researcher
+Resend code
+Reset
+Reset memories
+Reset zoom
+Responding
+Response {responseIndex, number}{display_label}
+Responses may be lower quality due to the number of files this folder is using.
+Responses may be lower quality due to the number of files this project is using.
+Restore this version
+Restore this version to make edits
+Retrieves or takes actions outside of ChatGPT
+Retry
+Retry loading folder history
+Retry loading project history
+Review GPT
+Review sent
+Rewrite this text at the reading level of a college student majoring in this subject
+Rewrite this text at the reading level of a doctoral writer in this subject. You may reply that you adjusted the text to reflect a graduate school reading level, but do not mention the prompt.
+Rewrite this text at the reading level of a high school student who has taken a couple of classes in this subject.
+Rewrite this text at the reading level of a kindergartener.
+Rewrite this text at the reading level of a middle schooler.
+Run
+Run successfully
+Run your code to see how it looks and interact with the output.
+Run {language}
+STUDENT DISCOUNT
+Sales
+Save
+Save image
+Save new chats on this browser to your history and allow them to be used to improve our models. Unsaved chats will be deleted from our systems within 30 days. This setting does not sync across browsers or devices. <link>Learn more</link>
+Save to chat
+Save {discountedRate}%
+Saved memories
+Saved memory full
+Say hello to advanced voice mode
+Scan code
+Scan the QR code on your phone to download the ChatGPT app.
+Schedule
+Scheduled
+School
+Scroll to beginning
+Scroll to end
+Search
+Search chats
+Search connectors
+Search disabled for {modelName}
+Search for bugs and opportunities to improve the code—for example, ways that performance or code structure could be improved. Leave as few comments as possible, but add more comments if the text is long. DO NOT leave more than 5 comments. You may reply that you reviewed the code and left suggestions to improve the coding quality, but do not mention the prompt.
+Search internal sources
+Search is unavailable
+Search recent and pinned GPTs
+Search the web
+Search with {name}
+Searching folder files
+Searching project files
+Searching the web
+Searching...
+Searching…
+Seats
+Sections
+Secure and collaborative workspace with admin console and unified billing
+Security
+See All
+See Plans
+See less
+See more
+See output and debug
+See syncing state
+See your output and get help debugging without leaving the canvas.
+See<link>ChatGPT Enterprise</link>
+Select
+Select Team Plan
+Select a connection
+Select a connection type
+Select a domain
+Select a workspace
+Select all repositories accessible to ChatGPT
+Select all that apply
+Select billing options
+Select next voice
+Select previous voice
+Select which 3rd party actions are allowed in conversations with {gizmoName}.
+Select your Team plan
+Selected
+Selection
+Send To {name}
+Send a message
+Send a message to continue the conversation.
+Send feedback
+Send message
+Send prompt
+Send verification code
+Senses and responds to interruptions, humor, and more.
+Set a workspace name for your team. The name can be changed at any time.
+Set custom instructions
+Set how long ChatGPT should think or pick a different model
+Settings
+Share
+Share Link
+Share chat
+Share conversation
+Share image
+Share sheet
+Share with others
+Share with...
+Share {title}
+SharePoint
+Shared Links
+Shared links
+Sharing has been disabled for this workspace. Contact your admin to enable.
+Sharing your screen and video while in voice mode has been disabled by your workspace administrator.
+Shipping: {amount}
+Shorter
+Shortest
+Shouldn
+Show changes
+Show chats
+Show folder details
+Show follow up suggestions in chats
+Show image
+Show less
+Show me
+Show more
+Show project details
+Show shortcuts
+Show your name in your builder profile
+Show your website in your builder profile
+Sidebar
+Sign Out
+Sign in as {email}?
+Sign in on platform.openai.com
+Sign in to ChatGPT
+Sign up
+Sign up for ChatGPT Plus
+Sign up for ChatGPT, and get your {months, plural, one {first month} other {first # months}} of Plus for free. Offer valid for new users after verifying you are a student.
+Sign up for free
+Sign up or log in
+Sign up or log in to get smarter responses, upload files and images, and more.
+Sign up to get free Plus
+Skills
+Skills unavailable
+Skip
+Skip to content
+Sneak a peek at advanced voice mode
+Social Sciences
+Software engineering agent
+Something went wrong
+Something went wrong playing preview
+Something went wrong while canceling your subscription.
+Something went wrong while cancelling your plan. Please reach out to support
+Something went wrong, please try again later.
+Something went wrong.
+Something went wrong. Please try again later
+Something went wrong...
+Sora
+Sorry, conversations created when Chat History is off expire after 6 hours of inactivity. Please start a new conversation to continue using ChatGPT.
+Sources
+Speech
+Spreadsheet
+Standard and advanced voice mode
+Standard response speed
+Standard voice mode
+Stars are anonymous and will only be visible to your workspace
+Stars will be public and anonymous
+Start
+Start Chat
+Start a new chat, or drag an old one in
+Start as empty workspace
+Start by defining your GPT.
+Start creating tasks
+Start new chat
+Start new chats with most recently used model
+Start using ChatGPT for free
+Start verification
+Start voice mode
+Starting Task
+Starting download
+Stay logged out
+Stop
+Stop generating
+Stop streaming
+Stopped
+Stopped commenting
+Stopped commenting on {documentTitle}
+Stopped editing
+Stopped editing {documentTitle}
+Stopped generating
+Stopping now will still count as one deep research request. You have {remaining} more available until {resetDate}.
+Strictly Necessary Cookies
+Student
+Students can claim 2 months of Plus, free.
+Submit
+Submitting feedback will include this full conversation to help improve ChatGPT, even if 
+Subscription
+Subscription Cancellation
+Subtotal
+Success
+Success! Your domain, 
+Successfully archived chats. You can view your archived chats in Settings.
+Successfully cancelled your plan. Sorry to see you go!
+Successfully exported data. You should receive an email shortly with your data.
+Successfully left the {workspaceName} workspace
+Successfully logged out of all devices.
+Successfully requested access to the workspace account. Your workspace administrator at {email} may approve the request.
+Suggest edits
+Suggest edits that would improve this text, like content to add or remove, places to rephrase so that the text flows more smoothly, or ways to reorganize the ideas to be more effective. Leave as few comments as possible, but add a few more comments if the text is long. DO NOT leave more than 5 comments. You can reply that you added comments and suggestions to help improve the writing quality, but do not mention the prompt.
+Summarize my top projects this quarter and key outcomes across all of them.
+Summarize this quarter’s marketing strategy.
+Summarize, analyze, and get smarter answers from your team’s docs.
+Summary
+Supercharge your team
+Supercharge your team’s work with a secure, collaborative workspace
+Supported by OpenAI
+Switch model
+Switch model 
+Switch model ({modelSlug})
+Switch to a personal account to upgrade
+Switch to {model} model to use beta connectors
+Switched to {name}
+Sync
+Sync Drive files to ChatGPT for more relevant, up-to-date answers
+Sync for better answers
+Sync in progress...
+Syncing
+Syncing enables instant ChatGPT responses about your data.
+Syncing may take 8 hours or longer
+System
+Table
+Tailor ChatGPT to your work with file uploads, projects, GPTs and persistent memory
+Tailor the way ChatGPT responds in this folder
+Tailor the way ChatGPT responds in this project
+Take photo
+Take screenshot
+Take survey
+Talk to Monday (ugh)
+Talk to me in {language}
+Talking to
+Tamil
+Task
+Task Cancelled
+Task cancelled
+Task complete
+Task deleted
+Task saved
+Tasks
+Tasks can’t access project files
+Tasks can’t be scheduled more than 2 years in the future.
+Tax
+Tax: {amount}
+Teaching
+Team
+Team Member/ Individual Contributor
+Team data excluded from training by default. <link>Learn more</link>
+Teams
+Tell us more:
+Telugu
+Temporarily limited. Contact <supportEmail>support@openai.com</supportEmail> for help.
+Temporarily unavailable
+Temporary Chat
+Temporary Chats don
+Temporary Chats won
+Temporary chat
+Temporary chats won
+Terms & policies
+Terms apply.
+Terms of Use
+Test new features like Projects, which lets you organize chats by topic
+Text size
+Thank you for using ChatGPT. To comply with legal requirements in Korea, we need to confirm that you’re old enough to use our service. To continue on ChatGPT, please confirm that you are 18+ or are 14+ and have your parent or guardian’s permission to use ChatGPT. <deleteAccountLink>If you do not meet our age requirements, please delete your account.</deleteAccountLink>
+Thanks for being a susbcriber. Since you already use ChatGPT Plus, you
+Thanks for subscribing to ChatGPT {planName}! Your {planName} plan includes:
+Thanks for trying ChatGPT
+Thanks for your feedback!
+Thanks! If ChatGPT
+The Google account you are trying to connect does not belong to a Google Workspace domain. Google accounts that do not belong to a Google Workspace (such as personal Gmail accounts) are not eligible to connect to this specific feature at this time.
+The Google account you are trying to link is already connected to a different ChatGPT user for this Google Drive connection.
+The SSO you logged in with does not match the SSO registered for this workspace. Try re-authenticating with that SSO.
+The Windows app is currently available for Plus, Team, Enterprise, and Edu plans.
+The account management page encountered an error. Please try again. If the problem continues, please visit help.openai.com.
+The builder of this GPT cannot view your conversations.
+The code you entered is formatted incorrectly.
+The code you entered is invalid. Please try again.
+The content you’re seeing was made by a ChatGPT user. It may be unverified or contain potentially unsafe content that doesn’t reflect the views of OpenAI.
+The data will be sent to your registered email in a downloadable file.
+The data will be sent to your registered email in a downloadable file. The download link will expire 24 hours after you receive it.
+The document is longer than a canvas can currently handle. To edit, please reduce the length.
+The document was truncated because it was too long.
+The download link will expire 24 hours after you receive it.
+The email address 
+The initial sync may take 8 hours or longer, based on workspace size.
+The last 30 days are ready to search.
+The model picker has moved
+The official app by OpenAI
+The page will go to {connectorName}
+The payments page encountered an error. Please try again. If the problem continues, please visit help.openai.com.
+The process is quick and secure.
+The share links are visible to workspace members only.
+The shared canvas is up to date.
+The token is invalid
+Theme
+Then, check the record to complete the verification.
+There may be an API key in your canvas. If you share the canvas, anyone with the link can see its contents.
+There was a problem updating your subscription
+There was an error
+There’s a task in this conversation — just FYI, it won’t be able to access project files.
+These apps will allow you to add files to ChatGPT messages.
+These cookies are essential for the website to function and cannot be switched off. They are typically set in response to actions you take, such as logging in or filling in forms. Because these cookies are necessary to deliver the service you requested, no consent is required for them.
+These cookies are required to operate our Services. For example, they allow us to authenticate users or enable specific features within the Services, including for security purposes.
+These cookies help us analyze and understand how our Services perform and are used, such as the number of users, how they interact with our Services, and time spent using the Services.
+These cookies help us measure, optimize, and improve the effectiveness of our marketing campaigns. For example, they enable us to see which campaigns lead users to our site and how those campaigns perform overall.
+Think
+Think a little
+Think before responding
+Think harder
+Think hardest
+Thinking…
+This GPT is inaccessible or not found. Ensure you are logged in, verify you’re in the correct ChatGPT.com workspace, or request access if you believe you should have it, if it exists.
+This Google account is already connected to a different ChatGPT account
+This MCP server violates <link>our guidelines</link>.
+This MCP server violates our guidelines. <link>Learn More</link>
+This canvas is inaccessible or not found. Ensure you are logged in, verify you’re in the correct ChatGPT.com workspace, or request access if you believe you should have it, if it exists.
+This change will take effect at your next renewal on {date}
+This chat won
+This content may violate our <contentPolicyLink>usage policies</contentPolicyLink>.
+This content may violate our <termsLink>Terms of Use</termsLink> or <contentPolicyLink>usage policies</contentPolicyLink>.
+This content was shared from a workspace you don’t have access to. Ask the owner to invite you if you’d like to view it.
+This conversation is archived. To continue, please unarchive it first.
+This document is not accessible by ChatGPT, please make sure the document exists and you have granted ChatGPT the access.
+This file contains too much text content. Please try again with a smaller file.
+This file is already a part of your message.
+This file is corrupted. Please ensure the file is not corrupted and try again.
+This file is encrypted/requires a password to access. Please try again with an unencrypted file.
+This is a copy of a conversation between ChatGPT & Anonymous.
+This link isn
+This model doesn
+This share is inaccessible or not found.
+This share link is not available because it doesn’t exist or you don’t have access to it.
+This shared link has been blocked by moderation
+This task is paused.
+This will delete {title}.
+This will remove you from your workspace and you won
+This workspace doesn
+Tips for getting started
+To add files from Google Drive, upload them directly to your message.
+To be more helpful in getting you more relevant responses, ChatGPT may share disassociated search queries based on past memories with third-party search providers. <link>Learn more</link>
+To cancel your subscription, just confirm your choice below. Your access to {planName} features will end on {expirationDate}.
+To claim the student discount, verify your university email address. This email will not be linked to your ChatGPT account.
+To claim the student discount, you must have a valid {domain} email address. This email will not be linked to your ChatGPT account.
+To clear any memories from your chats, visit your <link>settings</link>.
+To continue using ChatGPT, you need to complete a brief age verification check
+To generate a referral code, you must have a valid {domain} email address. This email will not be linked to your ChatGPT account.
+To proceed, click 
+To proceed, type 
+To schedule new ones, pause some of your existing tasks first.
+To start a new chat, your current conversation will be discarded. <signup>Sign up</signup> or <login>log in</login> to save chats.
+To understand what ChatGPT remembers or teach it something new, just chat with it:
+To update this custom schedule, just ask ChatGPT
+To update your rating, click 
+To use voice mode, you
+To verify ownership of {hostname}, navigate to your DNS provider and add a TXT record with this value:
+Today
+Today at {localizedTime}
+Toggle for switching between Personal and Business plans
+Toggle for switching to Business plans
+Toggle for switching to Personal plans
+Toggle screenshare
+Toggle sidebar
+Toggle to always expand detail view for code analysis off
+Toggle to always expand detail view for code analysis on
+Toggle video
+Tomorrow
+Tomorrow at {localizedTime}
+Too long for canvas
+Too many files
+Tools
+Tools unavailable
+Total due today
+Transcript
+Transcript Unavailable
+Transfer chat history and GPTs
+Transfer existing chat history and GPTs
+Transfer of existing data is permanent and can
+Transferring chat history is permanent and can
+Transform a photo of me and my partner to look 30 years older with graying hair and subtle wrinkles. Put us in a whimsical 3D world with soft, painterly textures, expressive forms, and storybook warmth.
+Transform a photo of my brown and white miniature bernedoodle into a futuristic style with the caption 
+Transform a photo of my family into a soft, watercolor painting, capturing the details of each person with gentle brushstrokes.
+Transform a photo of my family into vibrant anime-style cartoons, capturing their personalities with playful details and bright colors.
+Transform this into a bulleted list.
+Transform this into a numbered list.
+Transform this into a table. Add any appropriate labels to the columns or rows headers.
+Transform this into plain text. Remove any formatting.
+Try Codex
+Try Now
+Try Operator
+Try advanced features for free
+Try advanced voice mode
+Try again
+Try an example below or send any message in the message box below.
+Try it
+Try it now
+Try this prompt
+Try uploading a file
+Try voice mode for free
+Try your own
+Turn off microphone
+Turn off temporary chat
+Turn on desktop notifications
+Turn on microphone
+Turn on temporary chat
+Type
+TypeScript
+URL
+URL is invalid
+URL is required
+USD
+USD $0/month
+USD $16.67/month
+USD $199.99/year
+USD $20/month
+USD $25 per person/month*
+Unable to charge payment method for your Team subscription
+Unable to continue your conversation
+Unable to display this message due to an error.
+Unable to extract text from 
+Unable to fetch file information
+Unable to get connected apps
+Unable to load folders
+Unable to load history
+Unable to load projects
+Unable to load your builder profile
+Unable to retrieve builder profile
+Unable to update cookie preferences. Try again later.
+Unable to upload {fileName}
+Unable to upload {fileName} because an identical file has already been attached to this message.
+Unable to upload {fileName}. Max {maxUploads} uploads at a time
+Unarchive
+Unarchive conversation
+University email address
+Unknown
+Unknown GPT
+Unknown error occurred
+Unknown landing page
+Unknown landing page {systemHint}
+Unlimited access to advanced voice
+Unlimited access to all reasoning models and GPT-4o
+Unlimited access, team features, and more
+Unlimited messages, interactions, and history
+Unlimited subject to abuse guardrails. <link>Learn more</link>
+Unlock more with Plus
+Unsafe or problematic
+Unsaved changes
+Untitled Workspace
+Up to 5x more messages for {modelName}
+Update
+Update required
+Updated
+Updates to Pro aren
+Updating
+Updating task...
+Upgrade
+Upgrade Plan
+Upgrade for smarter answers
+Upgrade plan
+Upgrade to ChatGPT Plus
+Upgrade to Plus
+Upgrade to Team
+Upgrade to use Windows app
+Upgrade your plan
+Upgraded to o4-mini
+Upload Google Docs, Sheets, Slides and other files.
+Upload Microsoft Word, Excel, PowerPoint and other files.
+Upload Microsoft Word, Excel, PowerPoint, and other files, including those from SharePoint sites.
+Upload an image
+Upload file
+Upload files and more
+Uploaded a file
+Uploaded an image
+Uploads with file type 
+Usage limits may change.
+Use ChatGPT for every search
+Use DALL·E
+Use a shortcut to ask questions, upload files, or take screenshots from anywhere on your computer.
+Use a skill
+Use a tool
+Use advanced voice for a short period each month.
+Use custom GPTs
+Use default model
+Use o3 and o4-mini to schedule tasks. {learnMore}
+Use temporary chats for topics you don
+Use voice mode
+User quota exceeded
+User uploaded image
+Users
+VAT excluded at checkout with valid VAT ID
+Verification code
+Verified
+Verify
+Verify a new domain
+Verify new domain
+Verify you are a student
+Verify you are a student to get your first month of Plus for free.
+Verify your identity by adding billing details or verifying ownership of a public domain name.
+Verify {domain} email address
+View all tasks
+View all tools
+View and manage your Google Contacts.
+View and send emails from your Gmail account.
+View configuration
+View console
+View details
+View plans
+View source chat
+View tools
+View your Google Calendar and schedule events.
+Visit <link>settings</link> to delete any memories saved during this chat.
+Visit {settingsLink} to turn off improved memory.
+Visualize anything
+Voice
+Voice and screen sharing
+Voice mode
+Voice mode can make mistakes — check important info.
+Waiting…
+Warning
+We
+We are asking a small group of people for their opinion
+We are required to verify that our users in Italy are old enough to use ChatGPT. <learnMoreLink>Learn more</learnMoreLink>.
+We use cookies and similar technologies to deliver, maintain, and improve our services, and for security purposes. We also use these technologies to understand how users interact with our services (including the effectiveness of our ad campaigns). Learn more in our <cookiePolicyLink>Cookie Policy.</cookiePolicyLink>
+We use cookies and similar technologies to deliver, maintain, improve our services and for security purposes. Check our <cookiePolicy>cookie policy</cookiePolicy> for details. Click 
+We use cookies to provide, improve, and protect our services. Visit our <privacyPolicyLink>privacy policy</privacyPolicyLink> to learn more. You can manage your cookie preferences in your <settingsPanel>settings panel</settingsPanel>. <learnMoreLink>Learn more</learnMoreLink>.
+We were unable to connect your Google account. Please check your settings and try again.
+We were unable to connect your account to {connector_name}. Click to learn more.
+We were unable to process your export at this time. Please try again later.
+We were unable to process your request at this time. Please try again later.
+Web Search
+Web search
+Website
+Weekly
+Weekly on {localizedDayOfWeek}
+Weekly on {localizedDayOfWeek} at {localizedTime}
+Welcome back
+Welcome to the your Workspace
+Welcome to the {workspaceName} Workspace
+Welcome to the {workspaceName} workspace
+Welcome to the {workspaceName} workspace! This workspace is HIPAA compliant.
+What
+What are you researching?
+What are you working on?
+What can I help with, {name}?
+What can I help with?
+What do you remember about me?
+What is our company
+What kind of work do you do?
+What people are saying
+What should we do with your existing workspace?
+What to expect
+What will happen next?
+What’s the current status of our engineering sprint?
+When a folder owner or editor adds files to this folder, chats can access their contents
+When a folder owner or editor adds instructions, ChatGPT will tailor its responses
+When a project owner or editor adds files to this project, chats can access their contents
+When a project owner or editor adds instructions, ChatGPT will tailor its responses
+When your subscription ends, you
+Where did we leave off on my last project?
+Where should we begin?
+Where should we start, {name}?
+Where should we start?
+Which response do you prefer? Responses may take a moment to load.
+While in a temporary chat, ChatGPT won
+While we have safeguards, ChatGPT may give you inaccurate information. It’s not intended to give advice.
+Why do I need to do this?
+Why you might like this
+With DALL·E and analysis
+With DALL·E, browsing and analysis
+With the Pro plan, you can try the Operator research preview — an agent that browses the web to handle tasks for you.
+Without web search
+Words
+Work
+Works with
+Workspace
+Workspace name
+Workspace options
+Would you like to change your rating?
+Write or code
+Write with canvas
+X
+Yesterday
+You
+You are viewing a previous version
+You can ask ChatGPT to focus on certain topics, or ask it to use a certain tone or format for responses.
+You can change this shortcut in Settings.
+You can customize your consent for different types of cookies here. Toggle each category on or off as desired. Strictly Necessary cookies are always active, as they’re essential for the site’s basic functionality. Other cookies are optional and will only be used if you enable them. We will remember your preferences and you can change or withdraw your consent at any time via this settings panel.
+You can delete your conversations, which will also delete any {connectorName} data used in those conversations. <link>Learn more</link>
+You can now collaborate with others on your projects.
+You can re-enable them in settings
+You can view archived chats in Settings
+You cannot create a new account using the same email address.
+You do not currently have access to this feature
+You have a canvas save in progress.
+You have a pending invite request for this workspace. Contact your workspace administrator at {email} to approve your request.
+You have no archived conversations.
+You have no shared links.
+You have successfully left the {workspaceName} workspace.
+You have successfully left the {workspaceName} workspace. This will create your personal workspace automatically.
+You may only delete your account if you have logged in within the last 10 minutes. Please log in again, then return here to continue.
+You may only upload {maxNum} files at a time.
+You may request access to the workspace account.
+You must have a verified domain to enable displaying a link
+You must have a verified name to enable displaying a name
+You must have permission to edit images you upload, including consent from any people in them.
+You need to authenticate to access {workspaceName}. Redirecting...
+You previously reached your usage cap for GPT-4, but you can now try sending your message again
+You report has been submitted. Thank you for letting us know about this issue.
+You said:
+You will be redirected to platform.openai.com where you will need to sign in.
+You will lose access to all channels and messages in this workspace.
+You will lose access to your data if you leave or are removed from the Team workspace, or if the workspace is deactivated. <link>Learn more</link>
+You will need to cancel your in-app purchase subscription in the Apple App Store. We cannot cancel your subscription for you.
+You will need to cancel your in-app purchase subscription in the Google Play Store. We cannot cancel your subscription for you.
+You will then be redirected to Yoti, our age verification provider, to verify your age.
+Your ChatGPT Team workspace is ready
+Your ChatGPT account is not enabled for this connection
+Your ChatGPT administrator has not enabled this connection for your account.
+Your GPT
+Your GPT will forget what it has learned from your previous chats. This can
+Your GPTs, Plugins and Custom Instructions will be deleted.
+Your IT administrator has blocked access to this workspace
+Your Plugins and custom instructions in your personal workspace will be deleted.
+Your account details and chats will be included in the export.
+Your account is now connected
+Your admin connected your organization’s Google Drive, so ChatGPT can now use your team’s docs and slides to give you more personalized answers.
+Your admin has disabled this connector.
+Your admin has enabled internal knowledge for your workspace. 
+Your audio recordings are saved but not used for training. Learn how to <link>manage recordings</link>.
+Your billing schedule will change from {current_plan} to {new_plan} starting at your next renewal on {date}
+Your chat history and GPTs in your personal workspace will be migrated to the Team workspace.
+Your chat history and GPTs will be transferred to the new workspace and your existing workspace will be deleted.
+Your chat history will be included in the export.
+Your chat messages will not be shared.
+Your cookie preferences were updated successfully
+Your current Pro subscription will remain active until {renewalDateFormatted}, when it will change to Plus.
+Your current plan
+Your current {planName} subscription will auto-renew on {renewalDate}.
+Your data is never used for training.
+Your data will be deleted within 30 days, except we may retain a limited set of data for longer where required or permitted by law.
+Your domain could not be verified: {message}
+Your email address
+Your file is too large. The maximum file size is {size}MB.
+Your last log in was too long ago, please try again
+Your latest changes aren’t included.
+Your limit will reset at {time}
+Your limit will reset at {time} tomorrow
+Your limit will reset on {date}
+Your login session is too old. Please log in again before deleting your account.
+Your name
+Your organization requires that you log in with SSO to access this workspace
+Your plan auto-renews on {date}
+Your plan changes to {planName} on {date}
+Your plan will be canceled on {date}
+Your referral link earned you {discount} off a year of Plus.
+Your referral link earned you {discount} off {num_months} months of Plus.
+Your referral link earned you {discount} off {num_years} years of Plus.
+Your referral link was used — claim your free month of Plus.
+Your request is queued up. It will be completed shortly.
+Your request was flagged as potentially violating our usage policy. Please try again with a different prompt.
+Your session has expired
+Your subscription has been canceled.
+Your subscription has been renewed.
+Your subscription has been renewed. Your subscription will auto-renew on {renewalDate}.
+Your subscription has been updated. Your subscription will change to Plus on {renewalDateFormatted}.
+Your subscription through the Apple App Store is currently on pause due to a payment issue. Please resolve that issue to resume using ChatGPT Plus and avoid duplicate charges.
+Your subscription will change to Plus on {date}.
+Your subscription will remain active until {date}, when it will change to Plus.
+Your unverified domains
+Your workspace owner hasn’t approved this GPT.
+Your workspace will be deactivated on $date
+Your {discount} credit is ready
+Your {planName} subscription will be canceled but will remain active until the end of your billing period on {expirationDate}.
+You’ll be able to login with this email. It will also be used for account updates (like password resets) and information about OpenAI services.
+You’re in control
+You’re in control: Disconnect anytime to instantly revoke access.
+You’re viewing user-generated content that may be unverified or unsafe.
+You’ve reached your limit for scheduled tasks.
+Zip Archive
+Zoom in
+Zoom out
+alt
+any relevant sources
+billed annually
+by {name}
+desired areas of focus
+e.g. “Respond in Spanish. Reference the latest JavaScript documentation. Keep answers short and focused.”
+files related to your research
+for the first month
+for the first year
+for the first {num_months} months
+for the first {num_years} years
+help center article
+https://example.com/sse
+in {category} {locale}
+initializing environment
+installing packages
+month
+month (includes {vat_amount} of VAT)
+month (including VAT)
+o3 and o4-mini
+o3-mini
+o3-mini-high
+openai.com
+per user/month
+running code
+space
+this workspace
+until {remaining_discount_date}
+without watermark
+{branch, select, email {
+{branch, select, email {{emailValue}} other { your email.}}
+{connectorName} is now connected
+{count, plural, =0 {No images} one {# image} other {# images}}
+{count, plural, one {Deny} other {Deny all}}
+{count} {count, plural, one {file} other {files}}
+{currencyCode} {currencySign}{discountedMonthlyCost} <s>{currencySign}{monthlyCost}</s>
+{currencyCode} {currencySign}{monthlyCost}
+{currencyCode} {currencySign}{planCost}/month
+{currencyCode} {currencySign}{plusCost}/month
+{currencyCode} {currencySign}{totalAmount}
+{currencyCode}/
+{currencySign}{amount}/seat
+{currencySign}{discountAmount}
+{currencySign}{preDiscountTotalAmount}
+{currencySign}{tax}
+{currencySign}{totalCost}
+{days}d ago
+{discountPercentage}% off for {numPeriods, plural, one {1 month} other {{numPeriods} months}}
+{discount_percentage}% OFF
+{discounted_cost} OFF
+{email} belongs to a ChatGPT Edu plan but currently has no access.
+{email} belongs to a ChatGPT Enterprise plan but currently has no access.
+{fileName} is not a supported file type
+{gizmoName}
+{hello} Want to chat in {language}?
+{hours}h ago
+{localizedDate} at {localizedTime}
+{localizedDayOfWeek} at {localizedTime}
+{localizedMonthDay} at {localizedTime}
+{memoryFullPct}% full
+{message}
+{minutes}m ago
+{modelDisplayName} cannot analyze files
+{modelDisplayName} cannot analyze images
+{modelDisplayName} cannot edit documents
+{name}
+{name} will forget everything it has remembered from your chats. This cannot be undone.
+{numComments, plural, one {Commented on {documentTitle}} other {Added {numComments} comments on {documentTitle}}}
+{numComments, plural, one {Commented} other {Added {numComments} comments}}
+{numEdits, plural, one {Edited {documentTitle}} other {Made {numEdits} edits to {documentTitle}}}
+{numEdits, plural, one {Edited} other {Made {numEdits} edits}}
+{numLogs, plural, one {{numLogs} message} other {{numLogs} messages}}
+{numMembers, plural, one {1 member} other {# members}}
+{numSeats} users
+{numSeats} users x 12 months
+{num} connections
+{planName} users now get access to more deep research, including the new lightweight version.
+{prefix}: {message}
+{rating} ({num_reviews})
+{referrer_name} gave you 1 month of free Plus
+{remaining} available until {resetDate}
+{remaining} left
+{seconds}s ago
+{sourcesCount} Sources
+{title} is trying to connect to the network. If you don’t recognize {numRequests, plural, one {this request} other {any of these requests}}, don’t allow this app access to the network.
+{userName} (owner)
+{userName} (you)
+{userText}Connecting ChatGPT to Google Drive helps you get more personalized, up-to-date answers—grounded in your organization’s content. ChatGPT semantically searches your Drive and only surfaces content you’re authorized to view.
+{valueOff} off for {numPeriods, plural, one {1 month} other {{numPeriods} months}}
+£
+€
+⌘ Enter to send
+🍐

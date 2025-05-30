@@ -1,0 +1,98 @@
+Leaderboard IDs:
++------------------------------------+------------------------------------------+
+|ID                                  |Name                                      |
+|68813e3e-1947-471c-94b5-2ceb7a3c3000|text-to-text-overall-default              |
+|db83019d-ccdb-4ed6-9fc4-4f190f35f9ae|webdev-overall-remove-style-control       |
+|c352ae07-be22-4f35-9699-320ccf6b2335|vision-overall-default                    |
+|fb03b913-5106-441d-80e7-cfe4ac7c7941|search-overall-remove-style-control       |
+|71667eb3-be62-4705-8660-8b88a61af1c2|copilot-overall-remove-style-control      |
+|384ecec6-15fa-4c98-83b6-c88a398c7c24|text-to-image-overall-remove-style-control|
++------------------------------------+------------------------------------------+
+Found 10 items for text-to-text-overall-default
+Leaderboard for type text-to-text-overall-default:
++------------------------------+----+
+|Model Name                    |Rank|
+|gemini-2.5-pro-preview-05-06  |1   |
+|o3-2025-04-16                 |1   |
+|chatgpt-4o-latest-20250326    |2   |
+|gpt-4.5-preview-2025-02-27    |3   |
+|gemini-2.5-flash-preview-05-20|3   |
+|gemini-2.5-flash-preview-04-17|6   |
+|gpt-4.1-2025-04-14            |6   |
+|grok-3-preview-02-24          |6   |
+|deepseek-v3-0324              |6   |
+|o4-mini-2025-04-16            |6   |
++------------------------------+----+
+Found 10 items for webdev-overall-remove-style-control
+Leaderboard for type webdev-overall-remove-style-control:
++------------------------------+----+
+|Model Name                    |Rank|
+|Claude Opus 4 (20250514)      |1   |
+|Gemini-2.5-Pro-Preview-05-06  |1   |
+|Claude Sonnet 4 (20250514)    |1   |
+|Claude 3.7 Sonnet (20250219)  |4   |
+|Gemini-2.5-Flash-Preview-05-20|5   |
+|GPT-4.1-2025-04-14            |6   |
+|Claude 3.5 Sonnet (20241022)  |7   |
+|DeepSeek-V3-0324              |8   |
+|DeepSeek-R1                   |8   |
+|o3-2025-04-16                 |8   |
++------------------------------+----+
+Found 10 items for vision-overall-default
+Leaderboard for type vision-overall-default:
++------------------------------+----+
+|Model Name                    |Rank|
+|gemini-2.5-pro-preview-05-06  |1   |
+|o3-2025-04-16                 |2   |
+|chatgpt-4o-latest-20250326    |2   |
+|gpt-4.5-preview-2025-02-27    |2   |
+|gemini-2.5-flash-preview-05-20|2   |
+|o4-mini-2025-04-16            |3   |
+|gpt-4.1-2025-04-14            |4   |
+|gemini-2.5-flash-preview-04-17|4   |
+|o1-2024-12-17                 |6   |
+|gpt-4.1-mini-2025-04-14       |6   |
++------------------------------+----+
+Found 10 items for search-overall-remove-style-control
+Leaderboard for type search-overall-remove-style-control:
++----------------------------+----+
+|Model Name                  |Rank|
+|gemini-2.5-pro-grounding    |1   |
+|ppl-sonar-reasoning-pro-high|1   |
+|ppl-sonar-reasoning         |3   |
+|ppl-sonar                   |3   |
+|ppl-sonar-pro-high          |3   |
+|ppl-sonar-pro               |4   |
+|gemini-2.0-flash-grounding  |7   |
+|api-gpt-4o-search           |7   |
+|api-gpt-4o-search-high      |7   |
+|api-gpt-4o-search-high-loc  |8   |
++----------------------------+----+
+Found 10 items for copilot-overall-remove-style-control
+Leaderboard for type copilot-overall-remove-style-control:
++----------------------------+----+
+|Model Name                  |Rank|
+|Deepseek V2.5 (FIM)         |1   |
+|Claude 3.5 Sonnet (06/20)   |1   |
+|Claude 3.5 Sonnet (10/22)   |1   |
+|Codestral (25.01)           |1   |
+|Qwen-2.5-Coder (FiM)        |1   |
+|Mercury Coder Mini          |1   |
+|Codestral (05/24)           |2   |
+|GPT-4o (08/06)              |3   |
+|Gemini-1.5-Pro-002          |3   |
+|Meta-Llama-3.1-405B-Instruct|3   |
++----------------------------+----+
+Found 8 items for text-to-image-overall-remove-style-control
+Leaderboard for type text-to-image-overall-remove-style-control:
++--------------------------+----+
+|Model Name                |Rank|
+|imagen-3.0-generate-002   |1   |
+|recraft-v3                |2   |
+|flux-1.1-pro              |2   |
+|photon                    |2   |
+|ideogram-v2               |3   |
+|dall-e-3                  |6   |
+|flux-1-dev-fp8            |7   |
+|stable-diffusion-v35-large|8   |
++--------------------------+----+
